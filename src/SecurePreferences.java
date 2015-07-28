@@ -190,4 +190,9 @@ public class SecurePreferences {
 			throw new SecurePreferencesException(e);
 		}
 	}
+	
+	private static void Check()
+	{
+		
+	}
 }
